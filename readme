@@ -1,0 +1,6 @@
+this programm simulation to send and to recieve message for different SIGNAL/NOISE.
+RUN
+____________________
+gcc noise.c
+./a.out text data
+____________________
